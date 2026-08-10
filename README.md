@@ -9,7 +9,6 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=DEVILENMO&style=flat-square&color=58A6FF" alt="Profile views"/>
   <a href="https://github.com/ARC-Minecraft"><img src="https://img.shields.io/badge/Org-ARC%20Minecraft-238636?style=flat-square&logo=github" alt="ARC Minecraft"/></a>
   <a href="https://space.bilibili.com/37202522"><img src="https://img.shields.io/badge/Bilibili-主页-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
 
