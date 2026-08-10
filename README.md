@@ -3,36 +3,28 @@
   Repo must be named exactly: DEVILENMO/DEVILENMO
 -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=1200&color=E83467&center=true&vCenter=true&width=720&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+DEVILENMO;%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD+VLA+%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88;%E5%BC%A7%E5%85%89+Minecraft+%E5%BC%80%E5%8F%91%E7%BB%84" alt="Typing SVG" />
-
-  <br/>
-
-  <a href="https://github.com/ARC-Minecraft"><img src="https://img.shields.io/badge/Org-ARC%20Minecraft-238636?style=flat-square&logo=github" alt="ARC Minecraft"/></a>
-  <a href="https://space.bilibili.com/37202522"><img src="https://img.shields.io/badge/Bilibili-主页-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
-
-</div>
-
----
-
-## About Me
+## 关于我
 
 本科毕业于**武汉大学**电子信息学院光电信息科学与工程专业，硕士毕业于**香港科技大学** CSIT 学院 Information Technology 专业。
 
 此前有两年图像算法工程师的工作经验。现在是一名具身智能 VLA 算法工程师，主要在做视觉、语言和机器人动作之间的连接，以及相关算法的研究和落地。
 
-<p align="center">
+<p>
+  <a href="https://github.com/ARC-Minecraft"><img src="https://img.shields.io/badge/组织-ARC%20Minecraft-E83467?style=flat-square&logo=github" alt="ARC Minecraft"/></a>
+  <a href="https://space.bilibili.com/37202522"><img src="https://img.shields.io/badge/Bilibili-主页-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge" alt="CV"/>
-  <img src="https://img.shields.io/badge/VLA%20%2F%20Embodied%20AI-238636?style=for-the-badge" alt="VLA"/>
-  <img src="https://img.shields.io/badge/Minecraft%20Bedrock-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Bedrock"/>
+  <img src="https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89-111827?style=for-the-badge" alt="计算机视觉"/>
+  <img src="https://img.shields.io/badge/VLA%20%2F%20%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD-E83467?style=for-the-badge" alt="VLA"/>
+  <img src="https://img.shields.io/badge/%E5%9F%BA%E5%B2%A9%E7%89%88%20Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="基岩版 Minecraft"/>
 </p>
 
 ---
 
-## Open Source · 兴趣项目
+## 兴趣项目
 
 这些项目大多不是工作需要，只是某个时候突然想做，于是就做了。它们不一定都很“实用”，但每一个都记录了一点当时感兴趣的东西。
 
