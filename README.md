@@ -5,14 +5,14 @@
 
 ## 关于我
 
-本科毕业于**武汉大学**电子信息学院光电信息科学与工程专业，硕士毕业于**香港科技大学** CSIT 学院 Information Technology 专业。
-
-此前有两年图像算法工程师的工作经验。现在是一名具身智能 VLA 算法工程师，主要在做视觉、语言和机器人动作之间的连接，以及相关算法的研究和落地。
-
 <p>
   <a href="https://github.com/ARC-Minecraft"><img src="https://img.shields.io/badge/组织-ARC%20Minecraft-E83467?style=flat-square&logo=github" alt="ARC Minecraft"/></a>
   <a href="https://space.bilibili.com/37202522"><img src="https://img.shields.io/badge/Bilibili-主页-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"/></a>
 </p>
+
+本科毕业于**武汉大学**电子信息学院光电信息科学与工程专业，硕士毕业于**香港科技大学** CSIT 学院 Information Technology 专业。
+
+此前有两年图像算法工程师的工作经验。现在是一名具身智能 VLA 算法工程师，主要在做视觉、语言和机器人动作之间的连接，以及相关算法的研究和落地。
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
