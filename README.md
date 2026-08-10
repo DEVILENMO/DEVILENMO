@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+DEVILENMO+%F0%9F%91%8B;Embodied+AI+%2F+VLA+Engineer;Making+things+I+find+interesting" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=1200&color=E83467&center=true&vCenter=true&width=720&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+DEVILENMO;%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD+VLA+%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88;%E5%BC%A7%E5%85%89+Minecraft+%E5%BC%80%E5%8F%91%E7%BB%84" alt="Typing SVG" />
 
   <br/>
 
